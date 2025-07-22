@@ -1,0 +1,31 @@
+Sampling Method,Metric,Model,Value
+RUS,accuracy,Logistic Regression,0.8647730031561058
+RUS,accuracy,Decision Tree,0.8443797038116048
+RUS,precision,Logistic Regression,0.45053191489361705
+RUS,precision,Decision Tree,0.4053475935828877
+RUS,recall,Logistic Regression,0.9127155172413793
+RUS,recall,Decision Tree,0.8168103448275862
+RUS,f1_score,Logistic Regression,0.6032763532763533
+RUS,f1_score,Decision Tree,0.5418155825589707
+RUS,auc,Logistic Regression,0.8857011238737678
+RUS,auc,Decision Tree,0.8323449808953253
+ENN,accuracy,Logistic Regression,0.8413449866472444
+ENN,accuracy,Decision Tree,0.8909929594561787
+ENN,precision,Logistic Regression,0.41090738128819937
+ENN,precision,Decision Tree,0.5108853410740203
+ENN,recall,Logistic Regression,0.9418103448275862
+ENN,recall,Decision Tree,0.7586206896551724
+ENN,f1_score,Logistic Regression,0.5721767594108019
+ENN,f1_score,Decision Tree,0.6105810928013877
+ENN,auc,Logistic Regression,0.885200658049908
+ENN,auc,Decision Tree,0.8332091136374358
+Tomek Links,accuracy,Logistic Regression,0.9156348628307842
+Tomek Links,accuracy,Decision Tree,0.8953629521728574
+Tomek Links,precision,Logistic Regression,0.6731054977711739
+Tomek Links,precision,Decision Tree,0.5324165029469549
+Tomek Links,recall,Logistic Regression,0.48814655172413796
+Tomek Links,recall,Decision Tree,0.584051724137931
+Tomek Links,f1_score,Logistic Regression,0.565896314803248
+Tomek Links,f1_score,Decision Tree,0.5570400822199383
+Tomek Links,auc,Logistic Regression,0.7290253962451059
+Tomek Links,auc,Decision Tree,0.7594677225340818
